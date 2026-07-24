@@ -1,5 +1,5 @@
 
-import mongoose, { mongoosePopulatedDocumentMarker } from "mongoose";
+import mongoose from "mongoose"
 
 
 const addressSchema = new mongoose.Schema({
